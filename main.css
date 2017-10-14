@@ -1,2 +1,17 @@
-h1 { color: #426493;}
-body{color: #66215a;}
+h1 {
+
+  color: #426493;}
+
+body{
+  margin: 200;
+  padding: 0;
+  font-family: monospace; Helvetica;
+  background-color: #a8e271;
+  color: #66215a;}
+
+
+
+
+#one_green_thing{ color: #3f661a;}
+
+.all_red_things{ color: #6b0518;}
